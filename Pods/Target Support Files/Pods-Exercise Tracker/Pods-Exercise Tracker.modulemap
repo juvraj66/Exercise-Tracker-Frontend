@@ -1,0 +1,6 @@
+framework module Pods_Exercise_Tracker {
+  umbrella header "Pods-Exercise Tracker-umbrella.h"
+
+  export *
+  module * { export * }
+}
